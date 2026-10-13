@@ -20,4 +20,4 @@ AI that grades handwritten exam papers step by step, so teachers only check what
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+📫 [LinkedIn](https://www.linkedin.com/in/shrishtiruia/)
